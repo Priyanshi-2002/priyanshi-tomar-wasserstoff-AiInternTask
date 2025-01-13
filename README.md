@@ -1,6 +1,4 @@
-# priyanshi-tomar/wasserstoff/AiInternTask
- welcome
-# Document Intelligence Pipeline
+ Document Intelligence Pipeline
 
 This project is a Document Intelligence Pipeline designed to process PDF files, extract text, summarize content, and extract keywords using MongoDB for storage. The pipeline leverages concurrent processing for efficient handling of multiple PDF files.
 
